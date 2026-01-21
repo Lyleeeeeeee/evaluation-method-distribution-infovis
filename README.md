@@ -41,11 +41,11 @@ The goal is to provide empirical evidence and methodological guidance for more a
 
 ## 👥 Authors
 
-Feng Lin
-Arran Zeyu Wang  
-Md Dilshadur Rahman
-Danielle Albers Szafir  
-Ghulam Jilani Quadri  
+Feng Lin    
+Arran Zeyu Wang      
+Md Dilshadur Rahman      
+Danielle Albers Szafir      
+Ghulam Jilani Quadri      
 
 ---
 
