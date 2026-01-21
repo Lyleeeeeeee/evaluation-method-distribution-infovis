@@ -9,8 +9,7 @@ Presented at **BELIV Workshop, IEEE VIS 2024**
 
 ## 📄 About the Paper
 
-In information visualization research, evaluation plays a central role in validating new techniques and understanding user interaction.  
-However, recent trends show an increasing use of multiple evaluations within a single paper, raising questions about sustainability, feasibility, and methodological rigor.
+In information visualization research, evaluation plays a central role in validating new techniques and understanding user interaction. However, recent trends show an increasing use of multiple evaluations within a single paper, raising questions about sustainability, feasibility, and methodological rigor.
 
 This work conducts a systematic analysis of evaluation method distributions across **214 recent InfoVis papers** (IEEE TVCG 2023–2024) to study:
 
