@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Striking the Right Balance: Systematic Assessment of Evaluation Method Distribution Across Contribution Types
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository hosts the project website for the paper:
 
-## Available Scripts
+**Striking the Right Balance: Systematic Assessment of Evaluation Method Distribution Across Contribution Types**  
+Presented at **BELIV Workshop, IEEE VIS 2024**
 
-In the project directory, you can run:
+---
 
-### `yarn start`
+## 📄 About the Paper
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In information visualization research, evaluation plays a central role in validating new techniques and understanding user interaction.  
+However, recent trends show an increasing use of multiple evaluations within a single paper, raising questions about sustainability, feasibility, and methodological rigor.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This work conducts a systematic analysis of evaluation method distributions across **214 recent InfoVis papers** (IEEE TVCG 2023–2024) to study:
 
-### `yarn test`
+- How evaluation methods are distributed across different contribution types  
+- Trends in over-evaluation and under-evaluation  
+- Practical guidance on how evaluation design should match research contributions  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The goal is to provide empirical evidence and methodological guidance for more appropriate and sustainable evaluation practices in visualization research.
 
-### `yarn build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🔗 Links
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Project Website: https://strikingtherightbalance.github.io/  
+- Paper Link: https://ieeexplore.ieee.org/abstract/document/10756059
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `yarn eject`
+## 📊 Methodology
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Non-exhaustive literature survey of 214 IEEE TVCG InfoVis papers (2023–2024)  
+- Manual coding of:
+  - Contribution types  
+  - Evaluation methods  
+  - Evaluation strategy patterns  
+- Analysis of evaluation distributions and trends across paper categories  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 👥 Authors
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Feng Lin (First Author)  
+Arran Zeyu Wang  
+Md Dilshadur Rahman
+Ghulam Jilani Quadri  
+Danielle Albers Szafir  
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📝 Citation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+If you find this work useful, please cite:
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bibtex
+@article{lin2024striking,
+  title={Striking the Right Balance: Systematic Assessment of Evaluation Method Distribution Across Contribution Types},
+  author={Lin, Feng and Wang, Arran Zeyu and Rahman, Md Dilshadur and Szafir, Danielle Albers and Quadri, Ghulam Jilani},
+  journal={2024 IEEE Evaluation and Beyond-Methodological Approaches for Visualization (BELIV)},
+  pages={129--135},
+  year={2024},
+  publisher={IEEE}
+}
