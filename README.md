@@ -41,7 +41,7 @@ The goal is to provide empirical evidence and methodological guidance for more a
 
 ## 👥 Authors
 
-Feng Lin (First Author)  
+Feng Lin
 Arran Zeyu Wang  
 Md Dilshadur Rahman
 Ghulam Jilani Quadri  
